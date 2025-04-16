@@ -1,0 +1,23 @@
+# Core dependencies
+tensorflow>=2.5.0
+streamlit>=1.10.0
+numpy>=1.19.0
+pillow>=8.0.0
+opencv-python>=4.5.0
+matplotlib>=3.3.0
+
+# Hugging Face integration
+huggingface_hub>=0.16.0
+
+# Image processing
+scikit-image>=0.18.0
+imageio>=2.9.0
+
+# Video processing
+moviepy>=1.0.3
+
+# Utilities
+tqdm>=4.62.0
+pandas>=1.3.0
+requests>=2.25.0
+
