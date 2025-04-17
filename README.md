@@ -9,7 +9,7 @@
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Models-yellow?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/)
 
 <div align="center">
-  <img src="/api/placeholder/800/400" alt="Smart Garbage Classifier Demo" />
+  <img src="https://github.com/user-attachments/assets/c62eb94b-8c8a-4538-9f71-5253c79dcca2" alt="Smart Garbage Classifier Demo" />
 </div>
 
 ## 🚀 Overview
