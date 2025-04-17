@@ -188,10 +188,6 @@ The waste classification model is hosted on Hugging Face and accessed through th
 3. Adjust the confidence threshold slider as needed
 4. View classification results and disposal recommendations
 
-<div align="center">
-  <img src="/api/placeholder/700/300" alt="Image Classification Demo" />
-</div>
-
 ### Video Analysis
 
 1. Select **"Upload Video"** from the sidebar
@@ -199,9 +195,6 @@ The waste classification model is hosted on Hugging Face and accessed through th
 3. Configure the frame processing interval
 4. Review the classification timeline and aggregated results
 
-<div align="center">
-  <img src="/api/placeholder/700/300" alt="Video Analysis Demo" />
-</div>
 
 ---
 
